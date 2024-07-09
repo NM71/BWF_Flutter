@@ -9,6 +9,21 @@
       <excludeFolder url="file://$MODULE_DIR$/task_3_ten_widgets_and_navigation/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/task_3_ten_widgets_and_navigation/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/task_3_ten_widgets_and_navigation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/build" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/task_4_todo_app_using_sqlite/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

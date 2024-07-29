@@ -55,7 +55,7 @@ class MoneyCondition extends StatelessWidget {
                 child: Text(
                   "Rs.$amount",
                   style: const TextStyle(
-                    fontSize: 17,
+                    fontSize: 15,
                     fontWeight: FontWeight.bold,
                     color: Color.fromARGB(255, 14, 16, 41),
                   ),

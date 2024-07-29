@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737966527599",
+    "project_id": "task-6-ebazaar",
+    "storage_bucket": "task-6-ebazaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737966527599:android:403728da49a91b56a4699a",
+        "android_client_info": {
+          "package_name": "com.nosh.task_6_e_commerce_e_bazaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa_3l07j1R7wE5UdV_rbRqpXM_9LA2VZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

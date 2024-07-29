@@ -1,16 +1,15 @@
 # task_5_expense_tracker_with_firebase
 
-A new Flutter project.
+Expense Tracker with Firebase
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/NM71/BWF_Flutter/assets/123181737/72b1cd72-330e-4824-b679-d95707fd4dd1)
+![image](https://github.com/NM71/BWF_Flutter/assets/123181737/04efc071-48a5-43e8-98da-b402c2d3a057)
+![image](https://github.com/NM71/BWF_Flutter/assets/123181737/3c27b8bf-0f8d-4a83-be22-97568bede2ed)
+![image](https://github.com/NM71/BWF_Flutter/assets/123181737/898f940d-487c-4699-a5d4-d8b2e659f2dc)
+![image](https://github.com/NM71/BWF_Flutter/assets/123181737/b9b422be-ecdf-49dd-ac34-6113d040825d)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
